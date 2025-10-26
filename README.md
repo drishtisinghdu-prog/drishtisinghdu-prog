@@ -6,8 +6,8 @@ Currently solving LeetCode problems and building small projects.
 ---
 
 ## Skills
--C++
--HTML, CSS
--Teamwork
+-C++  
+-HTML, CSS  
+-Teamwork  
 
 ---
